@@ -6,7 +6,7 @@ Hello there!,
 - 🤔 I’m looking for personnel  with Expert-Level Skills for Entry-Level Position.
 - 💬 Ask me about any doubts consulting the projects I took part in.
 - 📫 Anyone can reach me through mail or through my Linkedln Profile.
-- ⚡ Fun fact: Developers use Dark Mode as Light Mode attracts Bugs.
+- ⚡ Fun fact: Developers use Dark Mode becoz Light Mode attracts Bugs.
   
 <!--
 **uvvxyz/uvvxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
