@@ -1,4 +1,4 @@
-Hello there!,
+# Hello there
 
 - 🔭 I’m currently working on Web Development and Web Design.
 - 🌱 I’m currently learning C,C++,HTML,CSS,JavaScript,etc..
